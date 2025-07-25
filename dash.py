@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 from io import BytesIO
-
+# Actualizar
 st.set_page_config(
 page_title="Dashboard de Ventas",page_icon="📊",
 layout="centered")
